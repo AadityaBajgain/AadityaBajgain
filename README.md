@@ -1,4 +1,4 @@
-# Aaditya Bajgain's GitHub Profile
+# My GitHub Profile
 
 Welcome to my GitHub profile! This repository contains the configuration files for my GitHub profile. Below you will find an overview of who I am, the technologies I work with, and links to some of my projects.
 
