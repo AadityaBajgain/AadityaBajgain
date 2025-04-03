@@ -1,4 +1,4 @@
-# My GitHub Profile
+# Aaditya Bajgain's GitHub Profile
 
 Welcome to my GitHub profile! This repository contains the configuration files for my GitHub profile. Below you will find an overview of who I am, the technologies I work with, and links to some of my projects.
 
@@ -8,10 +8,26 @@ Hello! I'm Aaditya Bajgain, a passionate developer with experience in various pr
 
 ## Technologies
 
-- **Languages:** JavaScript, Python, C , C++ , HTML, CSS
-- **Frameworks:** React, Node.js, Express, NextJS
-- **Tools:** Git
-- **Databases:** MySQL, MongoDB
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Projects
 
@@ -29,7 +45,7 @@ You can reach out to me through the following platforms:
 
 - **GitHub:** [AadityaBajgain](https://github.com/AadityaBajgain)
 - **LinkedIn:** [Aaditya Bajgain](https://www.linkedin.com/in/aadityabajgain/)
-- **Email:** adityabajgain@example.com
+- **Email:** aaditya.bajgain@example.com
 
 ## License
 
