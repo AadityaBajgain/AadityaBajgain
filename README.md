@@ -36,7 +36,7 @@ Here are some of the projects I've worked on:
 - [Weather App](https://github.com/AadityaBajgain/weather-app) - A React-based web application that provides weather updates using the OpenWeather API.
 - [ToDo List](https://github.com/AadityaBajgain/todo-list) - A simple and intuitive to-do list application built with JavaScript and local storage.
 - [Portfolio Website](https://github.com/AadityaBajgain/portfolio-website) - My personal portfolio website showcasing my projects and skills.
-- [Money Map](https://github.com/AadityaBajgain/money-map) - A financial management tool to track expenses and visualize spending habits.
+- [Money Map](https://github.com/AadityaBajgain/MoneyMap) - A financial management tool to track expenses and visualize spending habits.
 - [YT-Clone](https://github.com/AadityaBajgain/yt-clone) - A YouTube clone built with React and Node.js, allowing users to upload and watch videos.
 
 ## Contact
