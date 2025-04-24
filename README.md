@@ -44,7 +44,7 @@ You can reach out to me through the following platforms:
 
 - **GitHub:** [AadityaBajgain](https://github.com/AadityaBajgain)
 - **LinkedIn:** [Aaditya Bajgain](https://www.linkedin.com/in/aadityabajgain/)
-- **Email:** aaditya.bajgain@example.com
+- **Email:** adityabajgain@gmail.com
 
 ## License
 
