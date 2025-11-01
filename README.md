@@ -42,13 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBajgain&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🛰️ Active Status  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaBajgain&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true" />
-</p>
-
 
 ---
 
