@@ -20,13 +20,13 @@
 
 ### 🧰 Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c,cpp,nodejs,bash,json" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c,cpp,nodejs,json" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,spring,redux,tailwind,bootstrap,fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,spring,redux,tailwind,bootstrap" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,,vscode" />
 </p>
 
 ---
@@ -51,17 +51,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaBajgain&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
-
-### 📂 Recent Projects  
-<p align="center">
-  <a href="https://github.com/AadityaBajgain/PrepAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=PrepAI&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/AadityaBajgain/To-Do-List-Tkinter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=To-Do-List-Tkinter&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
