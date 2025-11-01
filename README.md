@@ -1,7 +1,5 @@
 
-Welcome to my GitHub profile! This repository contains the configuration files for my GitHub profile. Below you will find an overview of who I am, the technologies I work with, and links to some of my projects.
-
-## About Me
+##Hey There! 
 
 Hello! I'm Aaditya Bajgain, a passionate developer with experience in various programming languages and technologies. I enjoy creating innovative solutions and contributing to open-source projects.
 
