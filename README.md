@@ -53,7 +53,7 @@
 ---
 
 
-# 🌐 Lets Get in Touch  <p>
+### 🌐 Lets Get in Touch  <span>
   <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
     <span>LinkedIn</span>
   </a>
@@ -61,7 +61,7 @@
   <a href="https://github.com/AadityaBajgain" target="_blank">
     <span>Github</span>
   </a>
-</p>
+</span>
 
 ---
 
