@@ -40,8 +40,8 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 
 ---
 
-### 🛰️ Recent Projects  
-<p style="display: flex; justify-content: center; gap: 10px;">
+### 🛰️ Featured Projects  
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/AadityaBajgain/portfolio_v_two">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=portfolio_v_two&theme=transparent&hide_border=true" />
   </a>
@@ -55,8 +55,8 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 ### 🤝 Connect With Me  
 
 <p align="left">
-I love connecting with like-minded people who are passionate about tech, AI, or creativity.  
-Whether it’s for collaboration, learning, or just a good conversation — feel free to reach out!
+I love connecting with people who are passionate about technology, AI, and innovation.  
+Whether you’d like to collaborate, learn together, or just chat about creative ideas — feel free to reach out!
 </p>
 
 <p align="left">
@@ -74,5 +74,5 @@ Whether it’s for collaboration, learning, or just a good conversation — feel
 ---
 
 <p align="center">
-  <i>“Code.Create.Innovate”</i>  
+  <i>“Minimalism is not the lack of something — it’s the perfect amount of everything.”</i>  
 </p>
