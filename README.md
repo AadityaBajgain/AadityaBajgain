@@ -17,7 +17,7 @@ Hello! I'm Aaditya Bajgain, a passionate developer with experience in various pr
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
 
 ## Projects
 
