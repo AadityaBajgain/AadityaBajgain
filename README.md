@@ -55,10 +55,12 @@
 
 ### 🌐 Lets Get in Touch  <span>
   <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
     <span>LinkedIn</span>
   </a>
 </br>
   <a href="https://github.com/AadityaBajgain" target="_blank">
+     <img src="https://skillicons.dev/icons?i=github" />
     <span>Github</span>
   </a>
 </span>
