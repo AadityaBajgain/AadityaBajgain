@@ -26,7 +26,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
 </p>
 
 ---
