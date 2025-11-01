@@ -11,12 +11,12 @@
 ---
 
 ### 🧠 About Me  
-Hi! I’m **Aaditya**, a curious mind passionate about technology, logic, and creativity.  
-I love exploring how **AI** and **software** can solve real-world problems and make life simpler.  
+Hi! I’m **Aaditya**, a passionate learner who loves blending creativity with logic.  
+I’m exploring how **AI** and **software** can solve real-world problems and create meaningful experiences.  
 
-- 🌱 Currently learning **Machine Learning & Full Stack Development**  
-- ⚙️ I enjoy building **smart, scalable, and clean software**  
-- 🧩 I love working on projects that blend **AI with Web Development**  
+- 🌱 Currently learning **Machine Learning, React, and Next.js**  
+- ⚙️ Building projects that connect **AI and Full Stack development**  
+- 🧩 I enjoy writing clean, minimal, and efficient code  
 - 📫 Reach me at **adityabajgain@gmail.com**
 
 ---
@@ -41,7 +41,7 @@ I love exploring how **AI** and **software** can solve real-world problems and m
 ---
 
 ### 🛰️ Recent Projects  
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/AadityaBajgain/PrepAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=PrepAI&theme=transparent&hide_border=true" />
   </a>
@@ -53,17 +53,26 @@ I love exploring how **AI** and **software** can solve real-world problems and m
 ---
 
 ### 🤝 Connect With Me  
-<p align="center">
+
+<p align="left">
+I love connecting with like-minded people who are passionate about tech, AI, or creativity.  
+Whether it’s for collaboration, learning, or just a good conversation — feel free to reach out!
+</p>
+
+<p align="left">
   <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
   </a>
   <a href="https://github.com/AadityaBajgain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="30px" />
+  </a>
+  <a href="mailto:adityabajgain@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Minimalism is not the lack of something — it’s the perfect amount of everything.”</i>  
+  <i>“Code.Create.Innovate”</i>  
 </p>
