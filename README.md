@@ -58,19 +58,19 @@ Whether you’d like to collaborate, learn together, or just chat about creative
 
 <p align="left">
   <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
-  <b>LinkedIn:</b>
     <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
+    <b>LinkedIn:</b>
   </a>
   <br/>
 
   <a href="https://github.com/AadityaBajgain" target="_blank">
-  <b>GitHub:</b>
     <img src="https://skillicons.dev/icons?i=github" width="30px" />
+    <b>GitHub:</b>
   </a>
   <br/>
 
   <a href="mailto:adityabajgain@gmail.com" target="_blank">
-  <b>Gmail:</b>
     <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
+    <b>Gmail:</b>
   </a>
 </p>
