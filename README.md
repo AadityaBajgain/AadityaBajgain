@@ -40,8 +40,8 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 
 ---
 
-### 🛰️ Featured Projects  
-<p align="center">
+### 🛰️ Recent Projects 
+<p>
   <img src="https://recent-repo-2.vercel.app/api/repo?username=AadityaBajgain&pos=0" height="150" width="450" />
   <br/>
   <img src="https://recent-repo-2.vercel.app/api/repo?username=AadityaBajgain&pos=1" height="150" width="450" />
