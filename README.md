@@ -42,10 +42,10 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 
 ### 🛰️ Recent Projects  
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/AadityaBajgain/PrepAI">
+  <a href="https://github.com/AadityaBajgain/portfolio_v_two">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=PrepAI&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/AadityaBajgain/To-Do-List-Tkinter">
+  <a href="https://github.com/AadityaBajgain/MoneyMap">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=To-Do-List-Tkinter&theme=transparent&hide_border=true" />
   </a>
 </p>
