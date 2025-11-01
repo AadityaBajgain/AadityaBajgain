@@ -57,20 +57,20 @@ Whether you’d like to collaborate, learn together, or just chat about creative
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
-    <b>LinkedIn:</b>
+  <a href="https://linkedin.com/in/aadityabajgain" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="25px" style="vertical-align:middle; margin-right:6px;" />
+    <b>LinkedIn</b>
   </a>
   <br/>
 
-  <a href="https://github.com/AadityaBajgain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="30px" />
-    <b>GitHub:</b>
+  <a href="https://github.com/AadityaBajgain" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" width="25px" style="vertical-align:middle; margin-right:6px;" />
+    <b>GitHub</b>
   </a>
   <br/>
 
-  <a href="mailto:adityabajgain@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
-    <b>Gmail:</b>
+  <a href="mailto:adityabajgain@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="25px" style="vertical-align:middle; margin-right:6px;" />
+    <b>Gmail</b>
   </a>
 </p>
