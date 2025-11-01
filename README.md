@@ -1,44 +1,89 @@
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Aaditya Bajgain</h1>
+<h3 align="center">🚀 Passionate Computer Science Student | AI & Full-Stack Developer</h3>
 
-##Hey There! 
-
-Hello! I'm Aaditya Bajgain, a passionate developer with experience in various programming languages and technologies. I enjoy creating innovative solutions and contributing to open-source projects.
-
-## Technologies
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css)](https://skillicons.dev)
-
-### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,spring,tailwind,bootstrap,mongoose)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
-
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-- [Weather App](https://github.com/AadityaBajgain/weather-app) - A React-based web application that provides weather updates using the OpenWeather API.
-- [ToDo List](https://github.com/AadityaBajgain/To-do-list) - A simple and intuitive to-do list application built with JavaScript and local storage.
-- [Portfolio Website](https://github.com/AadityaBajgain/portfolio) - My personal portfolio website showcasing my projects and skills.
-- [Money Map](https://github.com/AadityaBajgain/MoneyMap) - A financial management tool to track expenses and visualize spending habits.
-- [YT-Clone](https://github.com/AadityaBajgain/yt-clone) - A YouTube clone built with React and Node.js, allowing users to upload and watch videos.
-
-## Contact
-
-You can reach out to me through the following platforms:
-
-- **GitHub:** [AadityaBajgain](https://github.com/AadityaBajgain)
-- **LinkedIn:** [Aaditya Bajgain](https://www.linkedin.com/in/aadityabajgain/)
-- **Email:** adityabajgain@gmail.com
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AadityaBajgain&label=Profile%20views&color=0e75b6&style=flat" alt="AadityaBajgain" />
+  <img src="https://img.shields.io/github/followers/AadityaBajgain?label=Followers&style=social" alt="followers"/>
+</p>
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+### 👨‍💻 About Me  
+- 🌱 Currently learning **Full Stack Development & AI**  
+- 💡 Exploring **Next.js, React, and Machine Learning**  
+- 🧠 Interested in **building intelligent systems & impactful software**  
+- 💬 Ask me about **React, Python, and Java**  
+- 📫 Reach me at: **aadityabajgain@gmail.com**  
+
+---
+
+### 🧰 Languages and Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c,cpp,nodejs,bash,json" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,spring,redux,tailwind,bootstrap,fastapi,django" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,figma,vscode,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AadityaBajgain&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaBajgain&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💡 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBajgain&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🛰️ Active Status  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaBajgain&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 📂 Recent Projects  
+<p align="center">
+  <a href="https://github.com/AadityaBajgain/PrepAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=PrepAI&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AadityaBajgain/To-Do-List-Tkinter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=To-Do-List-Tkinter&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AadityaBajgain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/AadityaBajgain" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code. Create. Innovate.”</i>
+</p>
