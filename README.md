@@ -41,13 +41,10 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 ---
 
 ### 🛰️ Featured Projects  
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/AadityaBajgain/portfolio_v_two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=portfolio_v_two&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/AadityaBajgain/MoneyMap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=MoneyMap&theme=transparent&hide_border=true" />
-  </a>
+<p align="center">
+  <img src="https://recent-repo-2.vercel.app/api/repo?username=AadityaBajgain&pos=0" height="150" width="450" />
+  <br/>
+  <img src="https://recent-repo-2.vercel.app/api/repo?username=AadityaBajgain&pos=1" height="150" width="450" />
 </p>
 
 ---
