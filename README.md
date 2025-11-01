@@ -1,65 +1,69 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aaditya Bajgain</h1>
-<h3 align="center">🚀 Passionate Computer Science Student | AI & Full-Stack Developer</h3>
+<!-- Header -->
+<h1 align="center">👋 Hey there, I'm Aaditya Bajgain</h1>
+<h3 align="center">💻 Computer Science Student | AI & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AadityaBajgain&label=Profile%20views&color=0e75b6&style=flat" alt="AadityaBajgain" />
-  <img src="https://img.shields.io/github/followers/AadityaBajgain?label=Followers&style=social" alt="followers"/>
+  <a href="https://github.com/AadityaBajgain">
+    <img src="https://komarev.com/ghpvc/?username=AadityaBajgain&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Currently learning **Full Stack Development, Data Science & Machine Learning**    
-- 🧠 Interested in **building intelligent systems & impactful software**  
-- 📫 Reach me at: **adityabajgain@gmail.com**  
+### 🧠 About Me  
+Hi! I’m **Aaditya**, a curious mind passionate about technology, logic, and creativity.  
+I love exploring how **AI** and **software** can solve real-world problems and make life simpler.  
+
+- 🌱 Currently learning **Machine Learning & Full Stack Development**  
+- ⚙️ I enjoy building **smart, scalable, and clean software**  
+- 🧩 I love working on projects that blend **AI with Web Development**  
+- 📫 Reach me at **adityabajgain@gmail.com**
 
 ---
 
-### 🧰 Languages and Tools  
+### 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c,cpp,nodejs,json" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,spring,redux,tailwind,bootstrap" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,express,spring,html,css,tailwind,bootstrap,mongodb,mysql,postgres,git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Insights  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AadityaBajgain&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaBajgain&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AadityaBajgain&show_icons=true&theme=transparent&hide_border=true&title_color=79dafa&icon_color=79dafa" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AadityaBajgain&theme=transparent&hide_border=true&ring=79dafa&fire=79dafa&currStreakLabel=79dafa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBajgain&layout=compact&theme=transparent&hide_border=true&title_color=79dafa" />
 </p>
 
 ---
 
-### 💡 Most Used Languages  
+### 🛰️ Recent Projects  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBajgain&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/AadityaBajgain/PrepAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=PrepAI&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/AadityaBajgain/To-Do-List-Tkinter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaBajgain&repo=To-Do-List-Tkinter&theme=transparent&hide_border=true" />
+  </a>
 </p>
-
 
 ---
 
-
-### 🌐 Lets Get in Touch  <span>
+### 🤝 Connect With Me  
+<p align="center">
   <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
-     <img src="https://skillicons.dev/icons?i=linkedin" />
-    <span>LinkedIn</span>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</br>
   <a href="https://github.com/AadityaBajgain" target="_blank">
-     <img src="https://skillicons.dev/icons?i=github" />
-    <span>Github</span>
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</span>
+</p>
 
 ---
 
 <p align="center">
-  <i>“Code. Create. Innovate.”</i>
+  <i>“Minimalism is not the lack of something — it’s the perfect amount of everything.”</i>  
 </p>
