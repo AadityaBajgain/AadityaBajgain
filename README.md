@@ -8,17 +8,16 @@ Hello! I'm Aaditya Bajgain, a passionate developer with experience in various pr
 ## Technologies
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css)](https://skillicons.dev)
 
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,spring)](https://skillicons.dev)
+### Frameworks and Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,spring,tailwind,bootstrap,mongoose)](https://skillicons.dev)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysq,postgresql,mongodb)](https://skillicons.dev)
 
 ## Projects
 
