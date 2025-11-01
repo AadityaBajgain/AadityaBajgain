@@ -10,11 +10,9 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **Full Stack Development & AI**  
-- 💡 Exploring **Next.js, React, and Machine Learning**  
+- 🌱 Currently learning **Full Stack Development, Data Science & Machine Learning**    
 - 🧠 Interested in **building intelligent systems & impactful software**  
-- 💬 Ask me about **React, Python, and Java**  
-- 📫 Reach me at: **aadityabajgain@gmail.com**  
+- 📫 Reach me at: **adityabajgain@gmail.com**  
 
 ---
 
