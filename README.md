@@ -8,7 +8,7 @@ Hello! I'm Aaditya Bajgain, a passionate developer with experience in various pr
 ## Technologies
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql)](https://skillicons.dev)
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
