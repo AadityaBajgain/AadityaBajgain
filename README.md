@@ -57,19 +57,20 @@ Whether you’d like to collaborate, learn together, or just chat about creative
 </p>
 
 <p align="left">
+  <b>LinkedIn:</b>
   <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
   </a>
+  <br/>
+
+  <b>GitHub:</b>
   <a href="https://github.com/AadityaBajgain" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="30px" />
   </a>
+  <br/>
+
+  <b>Gmail:</b>
   <a href="mailto:adityabajgain@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Minimalism is not the lack of something — it’s the perfect amount of everything.”</i>  
 </p>
