@@ -53,9 +53,7 @@
 ---
 
 
-
-### 🌐 Lets connect  
-<p>
+# 🌐 Lets Get in Touch  <p>
   <a href="https://linkedin.com/in/aadityabajgain" target="_blank">
     <span>LinkedIn</span>
   </a>
