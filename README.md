@@ -56,21 +56,10 @@ I love connecting with people who are passionate about technology, AI, and innov
 Whether you’d like to collaborate, learn together, or just chat about creative ideas — feel free to reach out!
 </p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/aadityabajgain" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="25px" style="vertical-align:middle; margin-right:6px;" />
-    <b>LinkedIn</b>
-  </a>
-  <br/>
 
-  <a href="https://github.com/AadityaBajgain" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=github" width="25px" style="vertical-align:middle; margin-right:6px;" />
-    <b>GitHub</b>
-  </a>
-  <br/>
+| Platform | Link |
+|:--|:--|
+| <img src="https://skillicons.dev/icons?i=linkedin" width="25"/> **LinkedIn** | [linkedin.com/in/aadityabajgain](https://linkedin.com/in/aadityabajgain) |
+| <img src="https://skillicons.dev/icons?i=github" width="25"/> **GitHub** | [github.com/AadityaBajgain](https://github.com/AadityaBajgain) |
+| <img src="https://skillicons.dev/icons?i=gmail" width="25"/> **Gmail** | [adityabajgain@gmail.com](mailto:adityabajgain@gmail.com) |
 
-  <a href="mailto:adityabajgain@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="25px" style="vertical-align:middle; margin-right:6px;" />
-    <b>Gmail</b>
-  </a>
-</p>
