@@ -28,17 +28,6 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 
 ---
 
-### 📊 GitHub Insights  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AadityaBajgain&show_icons=true&theme=transparent&hide_border=true&title_color=79dafa&icon_color=79dafa" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AadityaBajgain&theme=transparent&hide_border=true&ring=79dafa&fire=79dafa&currStreakLabel=79dafa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBajgain&layout=compact&theme=transparent&hide_border=true&title_color=79dafa" />
-</p>
-
----
 
 ### 🛰️ Recent Projects 
 <p>
