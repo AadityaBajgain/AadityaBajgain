@@ -17,7 +17,7 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 
 ### 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,express,spring,html,css,tailwind,bootstrap,mongodb,mysql,postgres,git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,express,html,css,tailwind,bootstrap,mongodb,mysql,git,github,vscode,postman,vercel" />
 </p>
 
 ---
