@@ -39,10 +39,3 @@ I love connecting with people who are passionate about technology, AI, and innov
 Whether you’d like to collaborate, learn together, or just chat about creative ideas — feel free to reach out!
 </p>
 
-
-| Platform | Link |
-|:--|:--|
-| <img src="https://skillicons.dev/icons?i=linkedin" width="25"/> **LinkedIn** | [linkedin.com/in/aadityabajgain](https://linkedin.com/in/aadityabajgain) |
-| <img src="https://skillicons.dev/icons?i=github" width="25"/> **GitHub** | [github.com/AadityaBajgain](https://github.com/AadityaBajgain) |
-| <img src="https://skillicons.dev/icons?i=gmail" width="25"/> **Gmail** | [adityabajgain@gmail.com](mailto:adityabajgain@gmail.com) |
-
