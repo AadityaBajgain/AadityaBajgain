@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm Aaditya Bajgain</h1>
-<h3 align="center">💻 Computer Science Student | Full-Stack Developer | Machine Learning enthusiast</h3>
+<h3 align="center">💻 Computer Science Student | Full-Stack Developer </h3>
 
 ---
 
