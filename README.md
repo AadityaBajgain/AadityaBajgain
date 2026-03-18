@@ -4,14 +4,20 @@
 
 ---
 
-### 🧠 About Me  
-Hi! I’m **Aaditya**, a passionate learner who loves blending creativity with logic.  
-I’m exploring how **AI** and **software** can solve real-world problems and create meaningful experiences.  
+### 🧠 Terminal Snapshot  
+```
+┌─[aaditya@dev-machine]─[~/workspace]
+└──$ whoami
+> Aaditya Bajgain — curious builder blending creativity with logic
 
-- 🌱 Currently learning **Machine Learning, React, and Next.js**  
-- ⚙️ Building projects that connect **AI and Full Stack development**  
-- 🧩 I enjoy writing clean, minimal, and efficient code  
-- 📫 Reach me at **adityabajgain@gmail.com**
+└──$ now
+> Learning: Machine Learning · React · Next.js
+> Building: AI × Full Stack bridges & experiments
+> Inbox: adityabajgain@gmail.com
+
+└──$ motto
+> Keep it clean, minimal, and efficient
+```
 
 ---
 
@@ -22,7 +28,6 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 
 ---
 
-
 ### 🛰️ Recent Projects 
 <p>
   <img src="https://recent-repo-2.vercel.app/api/repo?username=AadityaBajgain&pos=0" height="150" width="450" />
@@ -32,10 +37,19 @@ I’m exploring how **AI** and **software** can solve real-world problems and cr
 
 ---
 
+### 🗂️ Console Logs  
+```
+$ tail -f journey.log
+[growth] shipping small features consistently
+[ai] exploring how models solve real-world problems
+[collab] open to pair, review, or brainstorm new ideas
+```
+
+---
+
 ### 🤝 Connect With Me  
 
 <p align="left">
 I love connecting with people who are passionate about technology, AI, and innovation.  
 Whether you’d like to collaborate, learn together, or just chat about creative ideas — feel free to reach out!
 </p>
-
