@@ -7,10 +7,6 @@
 ### 🧠 About Me  
 Hi! I’m **Aaditya**, a passionate learner who loves blending creativity with logic.  
 I’m exploring how **AI** and **software** can solve real-world problems and create meaningful experiences.  
-
-- 🌱 Currently learning **Machine Learning, React, and Next.js**  
-- ⚙️ Building projects that connect **AI and Full Stack development**  
-- 🧩 I enjoy writing clean, minimal, and efficient code  
 - 📫 Reach me at **adityabajgain@gmail.com**
 
 ---
