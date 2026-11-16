@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=480&lines=hi%2C+i'm+Aaditya.;CS+student.+Software Development+%2B+ML.;status%3A+figuring+it+out." alt="hi, i'm Aaditya" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=hi%2C+i'm+Aaditya.;CS+student.+Software+Development+%2B+ML.;status%3A+figuring+it+out." alt="hi, i'm Aaditya" />
 
 </div>
 
