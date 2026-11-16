@@ -10,9 +10,9 @@
        .           .
    ─────────────────────────────────────────────
    mission    learn by building
-   status     ● in orbit (cs student)
+   status     ● in orbit (CS student)
    payload    TypeScript · Python · React · Next.js
-   next       ML, the hard way: no libraries first
+   next       ML, Deeplearning
    ─────────────────────────────────────────────
 ```
 
