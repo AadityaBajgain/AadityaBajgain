@@ -1,37 +1,35 @@
-<!-- Header -->
-<h1 align="center">👋 Hey there, I'm Aaditya Bajgain</h1>
-<h3 align="center">💻 Computer Science Student | Full-Stack Developer </h3>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=480&lines=hi%2C+i'm+Aaditya.;cs+student.+full-stack+%2B+ml.;status%3A+figuring+it+out." alt="hi, i'm Aaditya" />
 
-### 🧠 About Me  
-Hi! I’m **Aaditya**, a passionate learner who loves blending creativity with logic.  
-I’m exploring how **AI** and **software** can solve real-world problems and create meaningful experiences.  
-- 📫 Reach me at **adityabajgain@gmail.com**
+</div>
 
----
+```text
+          .        *          .
+   *   .       🛰           .      *
+       .           .
+   ─────────────────────────────────────────────
+   mission    learn by building
+   status     ● in orbit (cs student)
+   payload    TypeScript · Python · React · Next.js
+   next       ML, the hard way: no libraries first
+   ─────────────────────────────────────────────
+```
 
-### 🧰 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,express,html,css,tailwind,bootstrap,mongodb,mysql,git,github,vscode,postman,vercel" />
-</p>
+### Flight log
 
----
+| | project | what it is |
+|---|---|---|
+| 🧑‍🚀 | [junior_astronaut](https://github.com/AadityaBajgain/junior_astronaut) | NASA Space Apps Challenge 2026 entry |
+| 🌿 | [HERB](https://github.com/AadityaBajgain/HERB) | multimodal health triage assistant |
+| 📚 | [PrepAI](https://github.com/BarsatKhadka/PrepAI) | AI study planner, flashcards and quizzer |
+| 🎙️ | [prepview](https://github.com/AadityaBajgain/prepview) | AI interview practice with voice |
 
+### Built from scratch, NumPy only
 
-### 🛰️ Recent Projects 
-<p>
-  <img src="https://recent-repo-2.vercel.app/api/repo?username=AadityaBajgain&pos=0" height="150" width="450" />
-  <br/>
-  <img src="https://recent-repo-2.vercel.app/api/repo?username=AadityaBajgain&pos=1" height="150" width="450" />
-</p>
+[linear regression](https://github.com/AadityaBajgain/Student_Performance_Index_Linear_Regression_Without_ML_Library) → [logistic regression](https://github.com/AadityaBajgain/Logistic_Regression_Without_ML_Library) → [neural network](https://github.com/AadityaBajgain/NN-from-Scratch-NumPy-) → `next: ???`
 
----
-
-### 🤝 Connect With Me  
-
-<p align="left">
-I love connecting with people who are passionate about technology, AI, and innovation.  
-Whether you’d like to collaborate, learn together, or just chat about creative ideas — feel free to reach out!
-</p>
-
+<div align="center">
+<br>
+<sub>ground control: <a href="https://aadityabajgain.vercel.app/">site</a> · <a href="https://linkedin.com/in/aadityabajgain">linkedin</a> · <a href="mailto:adityabajgain@gmail.com">email</a></sub>
+</div>
