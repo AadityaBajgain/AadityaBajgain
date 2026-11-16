@@ -16,18 +16,6 @@
    ─────────────────────────────────────────────
 ```
 
-### Flight log
-
-| | project | what it is |
-|---|---|---|
-| 🧑‍🚀 | [junior_astronaut](https://github.com/AadityaBajgain/junior_astronaut) | NASA Space Apps Challenge 2026 entry |
-| 🌿 | [HERB](https://github.com/AadityaBajgain/HERB) | multimodal health triage assistant |
-| 📚 | [PrepAI](https://github.com/BarsatKhadka/PrepAI) | AI study planner, flashcards and quizzer |
-| 🎙️ | [prepview](https://github.com/AadityaBajgain/prepview) | AI interview practice with voice |
-
-### Built from scratch, NumPy only
-
-[linear regression](https://github.com/AadityaBajgain/Student_Performance_Index_Linear_Regression_Without_ML_Library) → [logistic regression](https://github.com/AadityaBajgain/Logistic_Regression_Without_ML_Library) → [neural network](https://github.com/AadityaBajgain/NN-from-Scratch-NumPy-) → `next: ???`
 
 <div align="center">
 <br>
